@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="message_radius">4dp</dimen>
+    <dimen name="sendButtonSize">30dp</dimen>
+    <dimen name="others_picture_size">30dp</dimen>
+</resources>
